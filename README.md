@@ -4,8 +4,10 @@ Projects for the Oxbridge Brainhack 2019
 ![BrainhackLogo](https://github.com/oxbridgebrainhack/oxbridgebrainhack.github.io/blob/master/img/logo_text_BW.png)
 
 
-### List of projects
+### How to submit a project
+Please use our [project template](https://github.com/oxbridgebrainhack/projects/issues/1) to submit a project, by creating an issue on this git repository. Then fill out [this google sheet](https://docs.google.com/spreadsheets/d/1kSlFgPVb-CF22RAWATAwDZG03dwBIgfZj_5D6ejSfzY/edit?usp=sharing).
 
+### List of projects
 You can find a living document of the Hackathon projects at [this google sheet](https://docs.google.com/spreadsheets/d/1kSlFgPVb-CF22RAWATAwDZG03dwBIgfZj_5D6ejSfzY/edit?usp=sharing).
 
 It contains information on:
